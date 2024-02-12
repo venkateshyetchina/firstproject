@@ -1,0 +1,22 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshyetchina/firstproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshyetchina/firstproject/issues"
+  },
+  "homepage": "https://github.com/venkateshyetchina/firstproject#readme",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
